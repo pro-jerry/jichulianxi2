@@ -21,7 +21,6 @@ public class ArrayAlg {
 	}
 
 	public static Pair<GregorianCalendar> maxmax(GregorianCalendar[] birthdays) {
-		// TODO Auto-generated method stub
 		return null;
 	}
 
